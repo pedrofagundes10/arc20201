@@ -163,15 +163,17 @@ Accept: application/json
 {
     "medida": "ideia",
     "marcadores": [
-        {"local": "quarto"},
-        {"personagem": "Lola"},
+        {"local": "cozinha"},
+        {"personagem": "miguel"},
+        {"acao": "tomando_leite"},
         {"url": "https://github.com/boidacarapreta/arc20201"}
     ],
     "valores": [
         {"latitude": -27.6084177},
         {"longitude": -48.6354691},
-        {"altitude": 80}
+        {"altitude": 100}
     ]
 }
+# ideia,local=cozinha,personagem=miguel,acao=tomando_leite,url=https latitude=-27,longitude=-48,altitude=100
 
 ###
